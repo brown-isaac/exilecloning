@@ -1,0 +1,120 @@
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+
+body{
+    background-color: #eee;
+}
+
+#nav{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+ul {
+    margin-left: -53px;
+    
+}
+
+#nav ul li{
+    list-style: none;
+    display: inline-block;
+    float: left;
+}
+
+#nav ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#82A0BC;
+    padding: 0 15px;
+}
+
+#nav ul li a:hover{
+    color:#63ADF2;
+}
+
+#nav h1{
+    color: #000;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+
+#nav h1:hover{
+    color: #63ADF2;
+    cursor: pointer;
+}
+
+#nav p span{
+    color: #82A0BC;
+    cursor: pointer;
+}
+
+#nav p span:hover{
+    color: #63ADF2;
+}
+
+#paragraph{
+    color: #555;
+    font-family: 'Vollkorn',serif;
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+#paragraph p span{
+    color: #82A0BC;
+    cursor: pointer;
+}
+
+#paragraph p span:hover{
+    color: #63ADF2;
+}
+
+#recentPostsSection{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#recentPostsSection h3{
+    
+    color: 000;
+}
+
+.recentPostsList ul li{
+   margin-left: 12px;
+}
+
+.recentPostsList ul li{
+    list-style: none;
+    /*display: inline-block;
+    float: left; */
+}
+
+.recentPostsList ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#82A0BC;
+    padding: 0px;
+}
+
+.recentPostsList ul li a:hover{
+    color:#63ADF2;
+}
+
+#colin{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#colin .write{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#82A0BC;
+}
+
+#colin .write:hover{
+    color:#63ADF2;
+}
